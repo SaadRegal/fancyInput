@@ -97,6 +97,7 @@ $('.fancy.input').fancyInput({
 | `onBlur`	| Is called when the input is blured  	| Function 	|
 
 - **Validation**
+
 When using a validation strategy you can use the following classes to style the input : `.error .warning .success .info`
 
 - Example 

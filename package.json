@@ -1,0 +1,16 @@
+{
+  "name": "fancyinput",
+  "version": "1.0.0",
+  "title": "Fancy Input",
+  "description": "Text input with fancy animation",
+  "homepage": "https://github.com/SaadRegal/fancyInput/",
+  "author": "Saad Regal <saad.regal.p@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaadRegal/fancyInput"
+  },
+  "bugs": {
+    "url": "https://github.com/SaadRegal/fancyInput/issues"
+  }
+}

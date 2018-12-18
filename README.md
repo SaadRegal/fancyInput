@@ -1,5 +1,6 @@
 # Fancy Input
 > Fancy Input is a jQuery plugin that you can use it for text input and make theme look fancy and elegant  text input 
+
 ![](screenshots/main_example.gif)
 
 ## Demo

@@ -16,7 +16,7 @@ Fancy Input is a jQuery plugin that you can use it for text input and make theme
 2- Include both CSS and JS files
 
 ```html
-<link rel="stylesheet" href="css/fancyinput.css">
+<link rel="stylesheet" href="css/fancyinput.min.css">
 <script src="js/fancyinput.min.js"></script>
 ```
 
